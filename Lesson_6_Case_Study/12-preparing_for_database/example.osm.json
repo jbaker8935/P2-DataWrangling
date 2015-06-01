@@ -1,0 +1,451 @@
+{
+  "created": {
+    "user": "bbmiller",
+    "changeset": "11129782",
+    "version": "7",
+    "uid": "451048",
+    "timestamp": "2012-03-28T18:31:23Z"
+  },
+  "visible": "true",
+  "id": "261114295",
+  "type": "node",
+  "pos": [
+    41.9730791,
+    -87.6866303
+  ]
+}
+{
+  "created": {
+    "user": "bbmiller",
+    "changeset": "8448766",
+    "version": "6",
+    "uid": "451048",
+    "timestamp": "2011-06-15T17:04:54Z"
+  },
+  "visible": "true",
+  "id": "261114296",
+  "type": "node",
+  "pos": [
+    41.9730416,
+    -87.6878512
+  ]
+}
+{
+  "created": {
+    "user": "bbmiller",
+    "changeset": "8581395",
+    "version": "5",
+    "uid": "451048",
+    "timestamp": "2011-06-29T14:14:14Z"
+  },
+  "visible": "true",
+  "id": "261114299",
+  "type": "node",
+  "pos": [
+    41.9729565,
+    -87.6939548
+  ]
+}
+{
+  "created": {
+    "user": "bbmiller",
+    "changeset": "8581395",
+    "version": "5",
+    "uid": "451048",
+    "timestamp": "2011-06-29T14:14:14Z"
+  },
+  "visible": "true",
+  "id": "261146436",
+  "type": "node",
+  "pos": [
+    41.970738,
+    -87.6976025
+  ]
+}
+{
+  "created": {
+    "user": "bbmiller",
+    "changeset": "8581395",
+    "version": "7",
+    "uid": "451048",
+    "timestamp": "2011-06-29T14:14:15Z"
+  },
+  "visible": "true",
+  "id": "261147304",
+  "type": "node",
+  "pos": [
+    41.9740068,
+    -87.6988576
+  ]
+}
+{
+  "created": {
+    "user": "bbmiller",
+    "changeset": "8581395",
+    "version": "5",
+    "uid": "451048",
+    "timestamp": "2011-06-29T14:14:14Z"
+  },
+  "visible": "true",
+  "id": "261224274",
+  "type": "node",
+  "pos": [
+    41.9707656,
+    -87.6938669
+  ]
+}
+{
+  "created": {
+    "user": "bbmiller",
+    "changeset": "8448766",
+    "version": "47",
+    "uid": "451048",
+    "timestamp": "2011-06-15T16:55:37Z"
+  },
+  "visible": "true",
+  "id": "293816175",
+  "type": "node",
+  "pos": [
+    41.9730154,
+    -87.6890403
+  ]
+}
+{
+  "created": {
+    "user": "Umbugbene",
+    "changeset": "15348240",
+    "version": "37",
+    "uid": "567034",
+    "timestamp": "2013-03-13T07:46:29Z"
+  },
+  "visible": "true",
+  "id": "305896090",
+  "type": "node",
+  "pos": [
+    41.9749225,
+    -87.6891198
+  ]
+}
+{
+  "created": {
+    "user": "Umbugbene",
+    "changeset": "15348240",
+    "version": "12",
+    "uid": "567034",
+    "timestamp": "2013-03-13T08:02:56Z"
+  },
+  "visible": "true",
+  "id": "317636974",
+  "type": "node",
+  "pos": [
+    41.9740292,
+    -87.701243
+  ]
+}
+{
+  "created": {
+    "user": "Umbugbene",
+    "changeset": "15348240",
+    "version": "13",
+    "uid": "567034",
+    "timestamp": "2013-03-13T08:08:01Z"
+  },
+  "visible": "true",
+  "id": "317636971",
+  "type": "node",
+  "pos": [
+    41.9740556,
+    -87.6979712
+  ]
+}
+{
+  "created": {
+    "user": "Umbugbene",
+    "changeset": "14927972",
+    "version": "2",
+    "uid": "567034",
+    "timestamp": "2013-02-05T22:43:49Z"
+  },
+  "visible": "true",
+  "id": "317637399",
+  "type": "node",
+  "pos": [
+    41.9705609,
+    -87.7012048
+  ]
+}
+{
+  "created": {
+    "user": "Umbugbene",
+    "changeset": "14927972",
+    "version": "2",
+    "uid": "567034",
+    "timestamp": "2013-02-05T22:43:49Z"
+  },
+  "visible": "true",
+  "id": "317637398",
+  "type": "node",
+  "pos": [
+    41.9706972,
+    -87.7012109
+  ]
+}
+{
+  "created": {
+    "user": "bbmiller",
+    "changeset": "8448766",
+    "version": "3",
+    "uid": "451048",
+    "timestamp": "2011-06-15T17:04:54Z"
+  },
+  "visible": "true",
+  "id": "365214872",
+  "type": "node",
+  "pos": [
+    41.973113,
+    -87.6847998
+  ]
+}
+{
+  "created": {
+    "user": "bbmiller",
+    "changeset": "8581395",
+    "version": "6",
+    "uid": "451048",
+    "timestamp": "2011-06-29T14:14:15Z"
+  },
+  "visible": "true",
+  "id": "261299091",
+  "type": "node",
+  "pos": [
+    41.9747482,
+    -87.6988886
+  ]
+}
+{
+  "created": {
+    "user": "bbmiller",
+    "changeset": "8448766",
+    "version": "6",
+    "uid": "451048",
+    "timestamp": "2011-06-15T17:04:54Z"
+  },
+  "visible": "true",
+  "id": "261114294",
+  "type": "node",
+  "pos": [
+    41.9731219,
+    -87.6841979
+  ]
+}
+{
+  "created": {
+    "user": "woodpeck_fixbot",
+    "changeset": "3359748",
+    "version": "4",
+    "uid": "147510",
+    "timestamp": "2009-12-13T00:36:09Z"
+  },
+  "visible": "true",
+  "id": "261210804",
+  "type": "node",
+  "pos": [
+    41.9707217,
+    -87.7000019
+  ]
+}
+{
+  "created": {
+    "user": "bbmiller",
+    "changeset": "8581395",
+    "version": "7",
+    "uid": "451048",
+    "timestamp": "2011-06-29T14:14:15Z"
+  },
+  "visible": "true",
+  "id": "261221422",
+  "type": "node",
+  "pos": [
+    41.9748542,
+    -87.6922652
+  ]
+}
+{
+  "created": {
+    "user": "bbmiller",
+    "changeset": "8581395",
+    "version": "7",
+    "uid": "451048",
+    "timestamp": "2011-06-29T14:14:15Z"
+  },
+  "id": "261221424",
+  "type": "node",
+  "highway": "traffic_signals",
+  "visible": "true",
+  "pos": [
+    41.9758794,
+    -87.6923639
+  ]
+}
+{
+  "outdoor_seating": "no",
+  "takeaway": "yes",
+  "id": "2406124091",
+  "name": "La Cabana De Don Luis",
+  "phone": "1 (773)-271-5176",
+  "type": "node",
+  "created": {
+    "user": "linuxUser16",
+    "changeset": "17206049",
+    "version": "2",
+    "uid": "1219059",
+    "timestamp": "2013-08-03T16:43:42Z"
+  },
+  "address": {
+    "housenumber": "5157",
+    "postcode": "60625",
+    "street": "North Lincoln Ave",
+    "city": "Chicago"
+  },
+  "cuisine": "mexican",
+  "smoking": "no",
+  "visible": "true",
+  "pos": [
+    41.975703,
+    -87.6921867
+  ],
+  "amenity": "restaurant"
+}
+{
+  "phone": "(773)-654-1347",
+  "created": {
+    "user": "linuxUser16",
+    "changeset": "20187349",
+    "version": "1",
+    "uid": "1219059",
+    "timestamp": "2014-01-25T01:56:10Z"
+  },
+  "id": "2636084635",
+  "type": "node",
+  "shop": "doityourself",
+  "source": "GPS",
+  "name": "Matty Ks",
+  "visible": "true",
+  "pos": [
+    41.9705219,
+    -87.6900344
+  ],
+  "address": {
+    "housenumber": "4874",
+    "country": "US",
+    "state": "Illinois",
+    "postcode": "60625",
+    "street": "N. Lincoln Ave",
+    "city": "Chicago"
+  }
+}
+{
+  "created": {
+    "user": "bbmiller",
+    "changeset": "8581395",
+    "version": "6",
+    "uid": "451048",
+    "timestamp": "2011-06-29T14:14:13Z"
+  },
+  "visible": "true",
+  "id": "261198953",
+  "type": "node",
+  "pos": [
+    41.9707413,
+    -87.6963097
+  ]
+}
+{
+  "created": {
+    "user": "uboot",
+    "changeset": "5288876",
+    "version": "2",
+    "uid": "26299",
+    "timestamp": "2010-07-22T16:16:51Z"
+  },
+  "id": "757860928",
+  "type": "node",
+  "cuisine": "sausage",
+  "name": "Shelly's Tasty Freeze",
+  "visible": "true",
+  "pos": [
+    41.9747374,
+    -87.6920102
+  ],
+  "amenity": "fast_food"
+}
+{
+  "created": {
+    "user": "linuxUser16",
+    "changeset": "20187382",
+    "version": "1",
+    "uid": "1219059",
+    "timestamp": "2014-01-25T02:01:54Z"
+  },
+  "id": "258219703",
+  "type": "way",
+  "highway": "service",
+  "node_refs": [
+    "2636086179",
+    "2636086178",
+    "2636086177",
+    "2636086176"
+  ],
+  "visible": "true"
+}
+{
+  "created": {
+    "user": "Jacobs Studios",
+    "timestamp": "2012-03-20T18:56:44Z",
+    "version": "2",
+    "changeset": "11043902",
+    "uid": "634589"
+  },
+  "address": {
+    "housenumber": "1400",
+    "postcode": "60067",
+    "housename": "Village Hall",
+    "street": "Baldwin Rd."
+  },
+  "type": "node",
+  "amenity": "townhall",
+  "name": "Village Hall",
+  "pos": [
+    42.1251718,
+    -88.0780576
+  ],
+  "id": "1683602133"
+}
+{
+  "building:levels": "1",
+  "created": {
+    "user": "chicago-buildings",
+    "changeset": "15353317",
+    "version": "1",
+    "uid": "674454",
+    "timestamp": "2013-03-13T15:58:04Z"
+  },
+  "id": "209809850",
+  "type": "way",
+  "building": "yes",
+  "chicago:building_id": "366409",
+  "visible": "true",
+  "node_refs": [
+    "2199822281",
+    "2199822390",
+    "2199822392",
+    "2199822369",
+    "2199822370",
+    "2199822284",
+    "2199822281"
+  ],
+  "address": {
+    "housenumber": "1412",
+    "street": "West Lexington St."
+  }
+}
